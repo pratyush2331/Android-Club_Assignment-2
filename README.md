@@ -1,5 +1,5 @@
 # Assignment-2
-In this assignment, I created basic layout of I/P O/P of any app using expo
+In this assignment, I created a basic layout of Login app using expo
 
 **Before filling login details**
 ![WhatsApp Image 2022-01-27 at 8 36 54 AM](https://user-images.githubusercontent.com/72189926/151285025-6fa05250-ebe3-4db4-890f-88eda0d6ffa6.jpeg)
